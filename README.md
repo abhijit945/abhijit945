@@ -6,7 +6,10 @@
 
 - 🔭 I’m currently working on `Frontend Development` at [@sparkcognition](https://twitter.com/SparkCognition)
 - 🌱 I’m currently learning `Rust` and `Machine Learning`
-- 💬 Ask me about `React`, `Material UI` and `D3`
+- 💬 Ask me about 
+  - React
+  - Material UI
+  - D3
+  - Building a PC
 - 📫 How to reach me: https://twitter.com/abhijit945
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: `TBD`
