@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning `Rust` and `Machine Learning`
 - 💬 Ask me about 
   - React
+  - Remix
   - Material UI
   - D3
   - Building a PC
-- 📫 How to reach me: https://twitter.com/abhijit945
+- 📫 How to reach me: https://www.abhijitrao.info/ or https://twitter.com/abhijit945
 - 😄 Pronouns: He/Him
 
 
