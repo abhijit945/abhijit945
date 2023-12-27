@@ -18,16 +18,22 @@ I’m currently working as a `Software Engineer` at [@sparkcognition](https://tw
   
 ## Let's get in touch 🤙🏽
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raoabhijit/)
+<p align="center">
+  <a href="https://linktr.ee/abhijit945"><img alt="linktree" height="48" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raoabhijit"><img alt="linkedin" height="48" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ## My Progress 🚧
 
 <p align="center">
-  <img alt="abhijit_stats" src="https://streak-stats.demolab.com?user=abhijit945&theme=soft-green&hide_border=true&mode=weekly" />
+  <img alt="abhijit_stats_1" src="https://streak-stats.demolab.com?user=abhijit945&theme=soft-green&hide_border=true&mode=weekly" />
 </p>
 
 ---
 
 <p align="center">
-  <img alt="abhijit_stats" src="https://github-readme-stats.vercel.app/api?username=abhijit945&show_icons=true&icon_color=00a8a6&text_color=00a8a6&bg_color=ffffff&hide_title=true" />
+  <img alt="abhijit_stats_2" src="https://github-readme-stats.vercel.app/api?username=abhijit945&show_icons=true&icon_color=00a8a6&text_color=00a8a6&bg_color=ffffff&hide_title=true" />
 </p>
