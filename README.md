@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I’m currently working as a `Software Engineer` at Sony
+I’m currently working as a `Sr. Software Engineer` at Sony
 ## Ask me about 🙋🏽
 
 <p align="center">
